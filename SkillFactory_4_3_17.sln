@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillFactory_4_3_17", "SkillFactory_4_3_17.csproj", "{15FF02FF-6F46-408C-969F-AB6835891EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FF02FF-6F46-408C-969F-AB6835891EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FF02FF-6F46-408C-969F-AB6835891EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FF02FF-6F46-408C-969F-AB6835891EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FF02FF-6F46-408C-969F-AB6835891EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B367A0-DDE2-4A35-8E6B-F0F873530CEF}
+	EndGlobalSection
+EndGlobal
